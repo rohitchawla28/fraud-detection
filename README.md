@@ -1,2 +1,2 @@
 # fraud-detection
-ML Project on Fraud Detection from Customer Transactions 
+ML Project on fraud detection from customer transactions using kaggle data.
